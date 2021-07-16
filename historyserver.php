@@ -1,12 +1,12 @@
 <html>
 <?php
-$query = $_POST['a'];
-$query_ar = $_POST['ar'];
-$query_ch = $_POST['ch'];
-$query_ec = $_POST['ec'];
-$query_en = $_POST['en'];
-$query_ma = $_POST['ma'];
-$query_ph = $_POST['ph'];
+$query = $_GET['a'];
+$query_ar = $_GET['ar'];
+$query_ch = $_GET['ch'];
+$query_ec = $_GET['ec'];
+$query_en = $_GET['en'];
+$query_ma = $_GET['ma'];
+$query_ph = $_GET['ph'];
 $counter = 0;
 ?>
 
